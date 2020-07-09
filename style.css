@@ -18,3 +18,39 @@
 .container{
     margin-bottom: 100px;
 }
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat1{
+    background-color: orange;
+    
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: palegreen;
+}
+.catagories h1{
+    color: white;
+    width: 100px;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightpink;
+    border-radius: 15px;
+
+}
+.card-footer{
+    background-color: whitesmoke;
+    border-top: none;
+}
+#Subscribe{
+    height: 300px;
+
+}
+footer{
+    text-align: center;
+}
